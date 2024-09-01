@@ -4,6 +4,10 @@
   <groupId>br.com.popcomic</groupId>
   <artifactId>PopComic</artifactId>
   <packaging>war</packaging>
+  <properties>
+    <maven.compiler.source>22</maven.compiler.source>
+    <maven.compiler.target>22</maven.compiler.target>
+  </properties>
   <version>1.0-SNAPSHOT</version>
   <name>PopComic Maven Webapp</name>
   <url>http://maven.apache.org</url>
